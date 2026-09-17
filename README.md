@@ -4,6 +4,10 @@
 
 **⚠️ Mock prototype**: 실제 편의점 API 제휴 없음. UI/UX와 수익 모델 검증용 데모.
 
+## Repo Launch service
+
+I turn one existing public GitHub repository into a focused product page for a fixed **$99 USD**, available worldwide in English. See the [service](https://duct-tape2.github.io/repo-launch/), [public work](https://duct-tape2.github.io/work/), and [case study](https://duct-tape2.github.io/examples/storefront-starter-case-study/). To check fit, [open a paid inquiry](https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml) or email `sks7178@gmail.com`.
+
 ## 라이브 데모
 
 https://duct-tape2.github.io/shinkkot-mock/
@@ -59,7 +63,9 @@ https://duct-tape2.github.io/shinkkot-mock/
 
 ## 컨택
 
-GitHub Issue 열기: https://github.com/duct-tape2/shinkkot-mock/issues
+유료 문의: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
+
+이메일: `sks7178@gmail.com`
 
 ---
 
